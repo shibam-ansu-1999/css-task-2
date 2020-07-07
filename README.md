@@ -1,2 +1,2 @@
-# css-task-2
-This is for CSS task-2
+# HTML-task-2
+This is for task-2
